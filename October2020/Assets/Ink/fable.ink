@@ -7,29 +7,36 @@ LIST local = (clareira)
 ->Fabula
 
 === Fabula ===
-Certa vez, {~ uma {LIST_RANDOM(animalF)}}
-Certa vez, {~ um {LIST_RANDOM(animalM)}}
-Certa vez, {~ um {LIST_RANDOM(animalM)}}
-
 
 Certa vez,
 Disputavam entre si 
 
-{~ um {LIST_RANDOM(animalM)} caminhava em companhia de um {LIST_RANDOM(animalM)}.->MM1|um {LIST_RANDOM(animalM)} caminhava em companhia de uma {LIST_RANDOM(animalF)}.->MF1|uma {LIST_RANDOM(animalF)} caminhava em companhia de um {LIST_RANDOM(animalM)}.->FM1|uma {LIST_RANDOM(animalF)} caminhava em companhia de uma {LIST_RANDOM(animalF)}.->FF1}
+{~ Um {LIST_RANDOM(animalM)} caminhava em companhia de um {LIST_RANDOM(animalM)}.->MM1|Um {LIST_RANDOM(animalM)} caminhava em companhia de uma {LIST_RANDOM(animalF)}.->MF1|Uma {LIST_RANDOM(animalF)} caminhava em companhia de um {LIST_RANDOM(animalM)}.->FM1|Uma {LIST_RANDOM(animalF)} caminhava em companhia de uma {LIST_RANDOM(animalF)}.->FF1}
+  * uesfhiudhr ->FM1
+  *eger wr g ->FM1
 
 
 =MM1
- . E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um homem esganando um leão.
+ . E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um {LIST_RANDOM(animalM)} esganando um {LIST_RANDOM(animalM)}.
+  "Está vendo como somos superiores a vocês?", disse a {LIST_RANDOM(animalM)} ao {LIST_RANDOM(animalM)}, apontando-a. E a {LIST_RANDOM(animalM)}, disfarçando um sorisso , retrucou: se uma {LIST_RANDOM(animalM)} soubesse esculpir, você veria muitas {LIST_RANDOM(animalM)} sob as {~patas|garras} de {LIST_RANDOM(animalM)}.
+    * uesfhiudhr ->FM1
+  *eger wr g ->FM1
 ->DONE
 =MF1
- E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um homem esganando uma {LIST_RANDOM(animalF)}.
+ E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um {LIST_RANDOM(animalM)} esganando uma {LIST_RANDOM(animalF)}.
+  "Está vendo como somos superiores a vocês?", disse a {LIST_RANDOM(animalF)} à {LIST_RANDOM(animalF)}, apontando-a. E a {LIST_RANDOM(animalF)}, disfarçando um sorisso , retrucou: se uma {LIST_RANDOM(animalF)} soubesse esculpir, você veria muitas {LIST_RANDOM(animalF)} sob as {~patas|garras} de {LIST_RANDOM(animalF)}.
+  * uesfhiudhr ->FM1
+  *eger wr g ->FM1
 ->DONE
 =FM1
- E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um homem esganando um leão.
+ E cada um, por sua vez, ia alardeando suas façanhas. No caminho, porém, havia uma estela de pedra com a representação de um {LIST_RANDOM(animalF)} esganando um {LIST_RANDOM(animalM)}.
+  "Está vendo como somos superiores a vocês?", disse a {LIST_RANDOM(animalF)} à {LIST_RANDOM(animalF)}, apontando-a. E a {LIST_RANDOM(animalF)}, disfarçando um sorisso , retrucou: se uma {LIST_RANDOM(animalF)} soubesse esculpir, você veria muitas {LIST_RANDOM(animalF)} sob as {~patas|garras} de {LIST_RANDOM(animalF)}.
 ->DONE
 =FF1
  E cada uma, por sua vez, ia alardeando suas façanhas.
- No caminho, porém, havia uma estela de pedra com a representação de um homem esganando um leão.
+ No caminho, porém, havia uma estela de pedra com a representação de um {LIST_RANDOM(animalF)} esganando um {LIST_RANDOM(animalF)}.
+ "Está vendo como somos superiores a vocês?", disse a {LIST_RANDOM(animalF)} à {LIST_RANDOM(animalF)}, apontando-a. E a {LIST_RANDOM(animalF)}, disfarçando um sorisso , retrucou: se uma {LIST_RANDOM(animalF)} soubesse esculpir, você veria muitas {LIST_RANDOM(animalF)} sob as {~patas|garras} de {LIST_RANDOM(animalF)}.
+ 
 ->DONE
 
 

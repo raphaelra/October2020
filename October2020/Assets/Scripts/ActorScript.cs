@@ -14,37 +14,9 @@ public class ActorScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        myState = CharacterEmotion.neutral;
-        SpriteRenderer = GetComponent<SpriteRenderer>();
+       
     }
-    public void ChangeState(string emotionName){
-        startCoroutine(emotionName +"State");
 
-    }
-    IEnumerator NeutralState()
-    {
-        SpriteRenderer = emotionSprites[0];
-        yield return null;
-
-    }
-      IEnumerator HappyState()
-    {
-        SpriteRenderer = emotionSprites[1];
-        yield return null;
-
-    }
-      IEnumerator SadState()
-    {
-        SpriteRenderer = emotionSprites[2];
-        yield return null;
-
-    }
-      IEnumerator AngryState()
-    {
-        SpriteRenderer = emotionSprites[3];
-        yield return null;
-
-    }
     // Update is called once per frame
     void Update()
     {
