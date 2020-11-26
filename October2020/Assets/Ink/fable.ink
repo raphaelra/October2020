@@ -1,3 +1,10 @@
+EXTERNAL place_actor(left_actor_name, right_actor_name)
+EXTERNAL change_emotion(emotion,ID)
+//Left = 0, Right = 1
+{place_actor("Actor","Actor 1")}
+{change_emotion("Angry",0)}
+{change_emotion("Happy",1)}
+
 LIST animalF = (abelha), (raposa), (lebre), (cobra), (andorinha), (gralha), (mosca), (serpente), (cigarra), (galinha), (tartaruga), (formiga),(ovelha)
 
 LIST animalM = (javali), (corvo), (elefante), (cachorro), (gato), (rato), (galo), (lobo), (crocodilo), (porco)
