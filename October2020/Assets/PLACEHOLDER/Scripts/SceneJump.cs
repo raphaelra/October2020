@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneJump : MonoBehaviour
 {
    public void StartGame() {
-       SceneManager.LoadScene("Level1",LoadSceneMode.Single);
+       SceneManager.LoadScene("TraceryFable",LoadSceneMode.Single);
    }
 
    public void Credits() {
