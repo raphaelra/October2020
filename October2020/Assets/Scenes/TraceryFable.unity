@@ -460,8 +460,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.7}
   m_AnchorMax: {x: 1, y: 0.8}
-  m_AnchoredPosition: {x: -364.5, y: -235.9}
-  m_SizeDelta: {x: -251.34932, y: 8.409767}
+  m_AnchoredPosition: {x: -1341.7, y: -723.4}
+  m_SizeDelta: {x: -763.26605, y: 65.19525}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &228471399
 MonoBehaviour:
@@ -767,12 +767,12 @@ RectTransform:
   m_Children:
   - {fileID: 1146991036}
   m_Father: {fileID: 451262443}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 1, y: 0.7}
-  m_AnchoredPosition: {x: -39.2, y: 82.7}
-  m_SizeDelta: {x: -201.87115, y: -63.048264}
+  m_AnchoredPosition: {x: -136.1, y: 256.5}
+  m_SizeDelta: {x: -614.0279, y: -156.00122}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &376698546
 MonoBehaviour:
@@ -787,7 +787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0.9803922, g: 0.94117653, b: 0.83921576, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -905,12 +905,12 @@ RectTransform:
   m_Children:
   - {fileID: 361026991}
   m_Father: {fileID: 451262443}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.7}
   m_AnchorMax: {x: 1, y: 0.8}
-  m_AnchoredPosition: {x: 70.76, y: -235.9}
-  m_SizeDelta: {x: -251.34932, y: 8.409767}
+  m_AnchoredPosition: {x: 381.6, y: -723.4}
+  m_SizeDelta: {x: -763.2664, y: 65.19525}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &392559070
 MonoBehaviour:
@@ -1115,17 +1115,17 @@ RectTransform:
   m_Children:
   - {fileID: 57896112}
   - {fileID: 1205073094}
-  - {fileID: 392559069}
   - {fileID: 376698545}
+  - {fileID: 392559069}
   - {fileID: 228471398}
   - {fileID: 1883586113}
   m_Father: {fileID: 334160302}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1919.9996, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &451262444
 MonoBehaviour:
@@ -1514,8 +1514,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1715275, y: 0.069886945}
   m_AnchorMax: {x: 0.52087384, y: 0.958888}
-  m_AnchoredPosition: {x: 16.476, y: -3.5}
-  m_SizeDelta: {x: 69.703735, y: 17}
+  m_AnchoredPosition: {x: 53.21, y: -3.5000305}
+  m_SizeDelta: {x: 225.10788, y: 17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1146991037
 MonoBehaviour:
@@ -1530,7 +1530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0.7254902, g: 0.33333334, b: 0.16470589, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1538,8 +1538,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
-    m_FontSize: 8
+    m_Font: {fileID: 12800000, guid: d7b2ae22013423c4eb23e186f97c83ea, type: 3}
+    m_FontSize: 10
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 1
@@ -1659,7 +1659,7 @@ MonoBehaviour:
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
   m_Text: "{\n\t\"origin\":[\"[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#Title#
-    <p>...<p/> #A# #B# #C# <p>...<p/> <i>#Moral.capitalize#<i/>\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
+    <p> </p> #A# #B# #C# #Moral.capitalize#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
     #Personagem1# e #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
     entre si #ArtigoIndefinidoM# #Personagem1# e #ArtigoIndefinidoF#  #Personagem2#.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# e #ArtigoIndefinidoF# #Personagem2# #competiam# entre si.\",\n\t\"#ArtigoIndefinidoM.capitalize#
@@ -2105,7 +2105,7 @@ GameObject:
   - component: {fileID: 1675277366}
   - component: {fileID: 1675277365}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: bookplaceholder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2127,8 +2127,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7, y: -1}
-  m_SizeDelta: {x: 1024, y: 721}
+  m_AnchoredPosition: {x: 2.1, y: 2.5}
+  m_SizeDelta: {x: 3233.7292, y: 2276.8738}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1675277365
 MonoBehaviour:
@@ -2293,8 +2293,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.7}
   m_AnchorMax: {x: 1, y: 0.8}
-  m_AnchoredPosition: {x: -422.15, y: -86.875}
-  m_SizeDelta: {x: -251.34932, y: 8.409767}
+  m_AnchoredPosition: {x: -1341.7, y: 183.4}
+  m_SizeDelta: {x: -763.2976, y: 65.19525}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1883586114
 MonoBehaviour:
@@ -2401,7 +2401,7 @@ GameObject:
   - component: {fileID: 1894577481}
   - component: {fileID: 1894577480}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: galaxyplaceholder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2423,8 +2423,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 618, y: 347.5}
+  m_AnchoredPosition: {x: 0, y: -0.0025024}
+  m_SizeDelta: {x: 1920, y: 1080.005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1894577480
 MonoBehaviour:
@@ -2532,7 +2532,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "{\n\t\"origin\":[\"[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#Title#
-    <p>...<p/> #A# #B# #C# <p>...<p/> <i>#Moral.capitalize#<i/>\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
+    <p> </p> #A# #B# #C# #Moral.capitalize#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
     #Personagem1# e #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
     entre si #ArtigoIndefinidoM# #Personagem1# e #ArtigoIndefinidoF#  #Personagem2#.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# e #ArtigoIndefinidoF# #Personagem2# #competiam# entre si.\",\n\t\"#ArtigoIndefinidoM.capitalize#
@@ -2541,7 +2541,41 @@ MonoBehaviour:
     #competiam# para ver quem tinha mais #qualidade#.\"\n\t],\n\t\n\t\"B\":[\"#ArtigoDefinidoM.capitalize#
     #Personagem1#, para se vangloriar, disse #Fala#\",\"#ArtigoDefinidoM.capitalize#
     #Personagem1# disse para #ArtigoDefinidoF# #Personagem2#:#Fala#\",\"#ArtigoDefinidoM.capitalize#
-    #Personagem1# come\xE7ou a recriminar sua #qualidade#, dizendo: '#Fala#\"],\n\t"
+    #Personagem1# come\xE7ou a recriminar sua #qualidade#, dizendo: '#Fala#\"],\n\t\n\t\"C\":[\"#ArtigoDefinidoF.capitalize#
+    #Personagem2# retrucou, dizendo: #Fala2#\", \"Enquanto ele se gabava, um raio
+    caiu subitamente, por obra divina, e incinerou-o, mas n\xE3o atingiu nem de rasp\xE3o
+    #ArtigoDefinidoF# #Personagem2#.\",\"Ai que #ArtigoDefinidoF# #Personagem2# retrucou,
+    dizendo:#Fala2#\"],\n\t\n\t\n\t\"competiam\":[\"competiam\",\"disputavam\"],\n\t\"competia\":[\"competia\",\"disputava\"],\n\t\"qualidade\":[\"for\xE7a\",\"beleza\",\"destreza\",\"intelig\xEAncia\"],\n\t\n\t\"Fala\":[\"'Sou
+    #adjM# e #adjM#. E voc\xEA ainda tenta medir-se comigo?'\",\"'Eu sou #adjM# e
+    #adjM#.'\"],\n\t\"Fala2\":[\"'Mas sua #qualidade# floresce na esta\xE7\xE3o #esta\xE7\xE3o#
+    enquanto meu corpo continua resistente tamb\xE9m #esta\xE7\xE3o2#!'\",\"'Sua
+    #qualidade# \xE9 passageira #dura\xE7\xE3o# #esta\xE7\xE3o3#'\",\"'Se voc\xEA
+    lembrar #armas# e #armas# que te abatem, tamb\xE9m vai preferir ser #ArtigoIndefinidoF#
+    #Personagem2#'\"],\n\t\n\t\"armas\":[\"das espadas\",\"dos serrotes\",\"dos arcos\",
+    \"dos serrotes\",\"das adagas\",\"do fogo\",\"das facas\",\"dos martelos\"],\n\t\n\t\"dura\xE7\xE3o\":[\"e
+    s\xF3 dura\",\"e dura apenas\",\"e s\xF3 dura apenas\"],\n\t\n\t\"esta\xE7\xE3o\":[\"da
+    primavera\",\"do ver\xE3o\",\"do outono\",\"do inverno\"],\n\t\"esta\xE7\xE3o2\":[\"na
+    primavera\",\"no ver\xE3o\",\"no outono\",\"no inverno\"],\n\t\"esta\xE7\xE3o3\":[\"uma
+    primavera\",\"um ver\xE3o\",\"um outono\",\"um inverno\"],\n\t\n\t\"adjM\":[\"belo\",\"alto\",\"\xFAtil\",\"inteligente\",\"altru\xEDsta\",\"carism\xE1tico\",\"confi\xE1vel\",\"criativo\",\"dedicado\",\"disciplinado\",\"extraordin\xE1rio\"],\n\t\n\t\n\t\"AnimalSingular\":[\"#ArtigoDefinidoF#
+    #AnimalF#\",\"#ArtigoIndefinidoF# #AnimalF#\",\"#ArtigoDefinidoM# #AnimalM#\",\"#ArtigoIndefinidoM#
+    #AnimalM#\"],\n\t\n\t\"ArtigoDefinidoM\":[\"o\"],\n\t\"ArtigoDefinidoF\":[\"a\"],\n\t\"ArtigoIndefinidoM\":[\"um\"],\n\t\"ArtigoIndefinidoF\":[\"uma\"],\n\t\n\t\n\t\"AnimalF\":[\"abelha\",\"raposa\",\"lebre\",\"\xE1guia\",\"andorinha\",\"cobra\",\"gralha\",\"mosca\",\"serpente\",\"r\xE3\",\"cigarra\",\"galinha\",\"tartaruga\",\"formiga\",\"ovelha\",\"figueira\",\"oliveira\"],\n\t\"AnimalM\":[\"homem\",\"pastor\",\"arqueiro\",\"javali\",
+    \"abeto\", \"corvo\", \"espinheiro\",\"elefante\",\"le\xE3o\",\"cachorro\",\"rato\",\"gato\",\"galo\",\"lobo\",\"crocodilo\",\"porco\"
+    ],\n\t\n\t\"Moral\":[\"Os gabolas constroem, com suas f\xE1bulas mentirosas,
+    recrimina\xE7\xF5es para si.\",\"um corpo resistente \xE9 melhor que uma bela
+    apar\xEAncia.\", \"Na vida as pessoas n\xE3o devem se deixar tomar pelo orgulho,
+    pois a vida dos simples \xE9 que \xE9 livre de amea\xE7as.\" ,\"Perigo ronda
+    o desocupado.\",\n\t\"As m\xE1s vantagens s\xE3o um perigo para quem as persegue.\",\n\t\"N\xE3o
+    seja tomado pelo orgulho pois apenas a vida dos simples \xE9 que \xE9 livre de
+    amea\xE7as.\",\n\t\"O castigo divino \xE9 inescap\xE1vel.\",\n\t\"N\xE3o menospreze
+    pessoa alguma, pois ningu\xE9m \xE9 t\xE3o fraco a ponto de n\xE3o poder um dia
+    se vingar de um ultraje.\",\n\t\"Muitas vezes as desgra\xE7as se tornam mais
+    cru\xE9is para que as sofre, quando partem de quem menos se espera.\",\n\t\"Um
+    corpo resistente \xE9 melhor que uma bela apar\xEAncia.\",\n\t\"Os que preveem
+    o futuro decerto evitam os perigos.\",\n\t\"Devemos prever o final a partir do
+    come\xE7o e s\xF3 ent\xE3o proteger-nos do resto.\",\n\t\"Para os malditos n\xE3o
+    h\xE1 lugar seguro nem na terra, nem no ar, nem na \xE1gua.\",\n\t\"N\xE3o se
+    vanglorie do extraordin\xE1rio se n\xE3o conseguir realizar o corriqueiro.\",\n\t\"De
+    nada vale a riqueza se a utilidade n\xE3o a acompanha.\"]\n\t\n\t\n\t}\n\t\n\t\n\t\n\t"
 --- !u!222 &2095885442
 CanvasRenderer:
   m_ObjectHideFlags: 0
