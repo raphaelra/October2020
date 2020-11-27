@@ -15,7 +15,7 @@ public class CharacterManager : MonoBehaviour
         for(int i = 0; i< characters.Length; i++)
         {
             GameObject NewActor = Instantiate(characters[i]);
-            newActor.SetActive(false);
+            //newActor.SetActive(false);
             NewActor.name = characters[i].name;
             actorslist.Add(NewActor);
         }     
@@ -46,18 +46,18 @@ public void PlaceActors(string leftActorName, string rightActorName)
 
 }
 
-  public void Update()
+ // public void Update()
   //ChangeActorEmotion(string emotion, int ID)
-    {
-        foreach (ActorScript actor in activeActors)
-        {
-            if (actor.GameObject.activeInHierarchy)
-            {
-                if (actor.ID == ID)
-                {
-                    actor.ChangeState(emotion);
-                }
-            }
-        }
+   // {
+       // foreach (ActorScript actor in activeActors)
+       // {
+            //if (actor.GameObject.activeInHierarchy)
+           // {
+              //  if (actor.ID == ID)
+               // {
+               //     actor.ChangeState(emotion);
+              //  }
+          //  }
+      //  }
 
-    }
+    //}

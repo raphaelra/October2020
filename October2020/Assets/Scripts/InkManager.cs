@@ -7,12 +7,12 @@ using Ink.Runtime;
 public class InkManager : MonoBehaviour {
 	[SerializeField]
     public static event Action<Story> OnCreateStory;
-	CharacterManager characterManager;
+	CharacterManager CharacterManager;
 	GameManager gm;
 
     void Start () {
 		// Remove the default message
-		cm = GetComponent<CharacterManager>();
+		//cm = GetComponent<CharacterManager>();
 		gm = GetComponent<GameManager>();
 		RemoveChildren();
 		StartStory();
