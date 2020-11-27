@@ -7,6 +7,7 @@ public class ActorScript : MonoBehaviour
     //Needs sprites = to amount of public enum CharacterEmotion amount
     public Sprite[] emotionSprites;
     SpriteRenderer SpriteRenderer;
+    public int ID;//Left = 0, Right = 1
     public enum CharacterEmotion{
         happy,sad,neutral,angry
     }

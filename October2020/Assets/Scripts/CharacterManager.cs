@@ -46,7 +46,8 @@ public void PlaceActors(string leftActorName, string rightActorName)
 
 }
 
-    public void ChangeActorEmotion(string emotion, int ID)
+  public void Update()
+  //ChangeActorEmotion(string emotion, int ID)
     {
         foreach (ActorScript actor in activeActors)
         {
@@ -57,7 +58,6 @@ public void PlaceActors(string leftActorName, string rightActorName)
                     actor.ChangeState(emotion);
                 }
             }
-
         }
 
     }
