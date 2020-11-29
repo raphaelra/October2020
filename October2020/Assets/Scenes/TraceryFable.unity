@@ -1060,8 +1060,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 1, y: 0.7}
-  m_AnchoredPosition: {x: -136.1, y: 256.5}
-  m_SizeDelta: {x: -614.0279, y: -156.00122}
+  m_AnchoredPosition: {x: -131.1, y: 248}
+  m_SizeDelta: {x: -655.2684, y: -173.07098}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &376698546
 MonoBehaviour:
@@ -1076,7 +1076,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9803922, g: 0.94117653, b: 0.83921576, a: 1}
+  m_Color: {r: 0.9803922, g: 0.94117653, b: 0.83921576, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1346,7 +1346,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: d7b2ae22013423c4eb23e186f97c83ea, type: 3}
-    m_FontSize: 10
+    m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 1
@@ -1774,8 +1774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 1, y: 0.7}
-  m_AnchoredPosition: {x: -820, y: -1.0800171}
-  m_SizeDelta: {x: -614.0279, y: -660.136}
+  m_AnchoredPosition: {x: -814.53, y: 8.87}
+  m_SizeDelta: {x: -650.81805, y: -680.0282}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &492466362
 MonoBehaviour:
@@ -1790,7 +1790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9803922, g: 0.94117653, b: 0.83921576, a: 1}
+  m_Color: {r: 0.9294118, g: 0.9294118, b: 0.9294118, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2493,7 +2493,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: d7b2ae22013423c4eb23e186f97c83ea, type: 3}
-    m_FontSize: 10
+    m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 1
@@ -3420,7 +3420,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: ec807dd62ca5c8e46bd420a16eb0aede, type: 3}
+  m_Texture: {fileID: 2800000, guid: 2617477badc312d48a8630e0b5f7b207, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
