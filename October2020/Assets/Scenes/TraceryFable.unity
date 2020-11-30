@@ -1351,7 +1351,7 @@ MonoBehaviour:
     m_BestFit: 1
     m_MinSize: 1
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1382,8 +1382,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1715275, y: 0.069886945}
   m_AnchorMax: {x: 0.52087384, y: 0.958888}
-  m_AnchoredPosition: {x: 51.98, y: -2.14}
-  m_SizeDelta: {x: 199.2254, y: -19.119293}
+  m_AnchoredPosition: {x: 51.98, y: -5.8498}
+  m_SizeDelta: {x: 199.2254, y: -11.6996765}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &424442794
 GameObject:
@@ -1519,7 +1519,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 547e05f16a6ba4037b9be58024417bcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GrammarFile: {fileID: 4900000, guid: e53313329b00d64428c6a3b0d38b7ba1, type: 3}
+  GrammarFile: {fileID: 4900000, guid: c8282b63e31fee64caf75ef795ee3172, type: 3}
   GrammarInput: {fileID: 1204728845}
   TokenInput: {fileID: 1318866386}
   TextOutput: {fileID: 1146991037}
@@ -1774,8 +1774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 1, y: 0.7}
-  m_AnchoredPosition: {x: -814.53, y: 8.87}
-  m_SizeDelta: {x: -650.81805, y: -680.0282}
+  m_AnchoredPosition: {x: -814.53, y: 0.2999878}
+  m_SizeDelta: {x: -650.81805, y: -662.86096}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &492466362
 MonoBehaviour:
@@ -2771,8 +2771,8 @@ MonoBehaviour:
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
   m_Text: "{\n\t\"origin\":[\"[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#Title#
-    <p> </p> #A# #B# #C# #Moral.capitalize#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
-    #Personagem1# e #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
+    #A# #B# #C#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize# #Personagem1# e
+    #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
     entre si #ArtigoIndefinidoM# #Personagem1# e #ArtigoIndefinidoF#  #Personagem2#.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# e #ArtigoIndefinidoF# #Personagem2# #competiam# entre si.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# #competia# em #qualidade# com #ArtigoIndefinidoF# #Personagem2#.\",
@@ -2799,22 +2799,7 @@ MonoBehaviour:
     #AnimalF#\",\"#ArtigoIndefinidoF# #AnimalF#\",\"#ArtigoDefinidoM# #AnimalM#\",\"#ArtigoIndefinidoM#
     #AnimalM#\"],\n\t\n\t\"ArtigoDefinidoM\":[\"o\"],\n\t\"ArtigoDefinidoF\":[\"a\"],\n\t\"ArtigoIndefinidoM\":[\"um\"],\n\t\"ArtigoIndefinidoF\":[\"uma\"],\n\t\n\t\n\t\"AnimalF\":[\"abelha\",\"raposa\",\"lebre\",\"\xE1guia\",\"andorinha\",\"cobra\",\"gralha\",\"mosca\",\"serpente\",\"r\xE3\",\"cigarra\",\"galinha\",\"tartaruga\",\"formiga\",\"ovelha\",\"figueira\",\"oliveira\"],\n\t\"AnimalM\":[\"homem\",\"pastor\",\"arqueiro\",\"javali\",
     \"abeto\", \"corvo\", \"espinheiro\",\"elefante\",\"le\xE3o\",\"cachorro\",\"rato\",\"gato\",\"galo\",\"lobo\",\"crocodilo\",\"porco\"
-    ],\n\t\n\t\"Moral\":[\"Os gabolas constroem, com suas f\xE1bulas mentirosas,
-    recrimina\xE7\xF5es para si.\",\"um corpo resistente \xE9 melhor que uma bela
-    apar\xEAncia.\", \"Na vida as pessoas n\xE3o devem se deixar tomar pelo orgulho,
-    pois a vida dos simples \xE9 que \xE9 livre de amea\xE7as.\" ,\"Perigo ronda
-    o desocupado.\",\n\t\"As m\xE1s vantagens s\xE3o um perigo para quem as persegue.\",\n\t\"N\xE3o
-    seja tomado pelo orgulho pois apenas a vida dos simples \xE9 que \xE9 livre de
-    amea\xE7as.\",\n\t\"O castigo divino \xE9 inescap\xE1vel.\",\n\t\"N\xE3o menospreze
-    pessoa alguma, pois ningu\xE9m \xE9 t\xE3o fraco a ponto de n\xE3o poder um dia
-    se vingar de um ultraje.\",\n\t\"Muitas vezes as desgra\xE7as se tornam mais
-    cru\xE9is para que as sofre, quando partem de quem menos se espera.\",\n\t\"Um
-    corpo resistente \xE9 melhor que uma bela apar\xEAncia.\",\n\t\"Os que preveem
-    o futuro decerto evitam os perigos.\",\n\t\"Devemos prever o final a partir do
-    come\xE7o e s\xF3 ent\xE3o proteger-nos do resto.\",\n\t\"Para os malditos n\xE3o
-    h\xE1 lugar seguro nem na terra, nem no ar, nem na \xE1gua.\",\n\t\"N\xE3o se
-    vanglorie do extraordin\xE1rio se n\xE3o conseguir realizar o corriqueiro.\",\n\t\"De
-    nada vale a riqueza se a utilidade n\xE3o a acompanha.\"]\n\t\n\t\n\t}\n\t\n\t\n\t\n\t"
+    ]\n\t\n\t\n\t}\n\t\n\t\n\t\n\t"
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
@@ -3420,7 +3405,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 2617477badc312d48a8630e0b5f7b207, type: 3}
+  m_Texture: {fileID: 2800000, guid: eedfeb5045d3b654c866fbf03c364675, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -4404,8 +4389,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "{\n\t\"origin\":[\"[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#Title#
-    <p> </p> #A# #B# #C# #Moral.capitalize#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize#
-    #Personagem1# e #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
+    #A# #B# #C#\"],\n\t\"Title\":[\"#ArtigoDefinidoM.capitalize# #Personagem1# e
+    #ArtigoDefinidoF# #Personagem2#\"],\n\t\n\t\"A\":[\n\t\"#competiam.capitalize#
     entre si #ArtigoIndefinidoM# #Personagem1# e #ArtigoIndefinidoF#  #Personagem2#.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# e #ArtigoIndefinidoF# #Personagem2# #competiam# entre si.\",\n\t\"#ArtigoIndefinidoM.capitalize#
     #Personagem1# #competia# em #qualidade# com #ArtigoIndefinidoF# #Personagem2#.\",
@@ -4432,22 +4417,7 @@ MonoBehaviour:
     #AnimalF#\",\"#ArtigoIndefinidoF# #AnimalF#\",\"#ArtigoDefinidoM# #AnimalM#\",\"#ArtigoIndefinidoM#
     #AnimalM#\"],\n\t\n\t\"ArtigoDefinidoM\":[\"o\"],\n\t\"ArtigoDefinidoF\":[\"a\"],\n\t\"ArtigoIndefinidoM\":[\"um\"],\n\t\"ArtigoIndefinidoF\":[\"uma\"],\n\t\n\t\n\t\"AnimalF\":[\"abelha\",\"raposa\",\"lebre\",\"\xE1guia\",\"andorinha\",\"cobra\",\"gralha\",\"mosca\",\"serpente\",\"r\xE3\",\"cigarra\",\"galinha\",\"tartaruga\",\"formiga\",\"ovelha\",\"figueira\",\"oliveira\"],\n\t\"AnimalM\":[\"homem\",\"pastor\",\"arqueiro\",\"javali\",
     \"abeto\", \"corvo\", \"espinheiro\",\"elefante\",\"le\xE3o\",\"cachorro\",\"rato\",\"gato\",\"galo\",\"lobo\",\"crocodilo\",\"porco\"
-    ],\n\t\n\t\"Moral\":[\"Os gabolas constroem, com suas f\xE1bulas mentirosas,
-    recrimina\xE7\xF5es para si.\",\"um corpo resistente \xE9 melhor que uma bela
-    apar\xEAncia.\", \"Na vida as pessoas n\xE3o devem se deixar tomar pelo orgulho,
-    pois a vida dos simples \xE9 que \xE9 livre de amea\xE7as.\" ,\"Perigo ronda
-    o desocupado.\",\n\t\"As m\xE1s vantagens s\xE3o um perigo para quem as persegue.\",\n\t\"N\xE3o
-    seja tomado pelo orgulho pois apenas a vida dos simples \xE9 que \xE9 livre de
-    amea\xE7as.\",\n\t\"O castigo divino \xE9 inescap\xE1vel.\",\n\t\"N\xE3o menospreze
-    pessoa alguma, pois ningu\xE9m \xE9 t\xE3o fraco a ponto de n\xE3o poder um dia
-    se vingar de um ultraje.\",\n\t\"Muitas vezes as desgra\xE7as se tornam mais
-    cru\xE9is para que as sofre, quando partem de quem menos se espera.\",\n\t\"Um
-    corpo resistente \xE9 melhor que uma bela apar\xEAncia.\",\n\t\"Os que preveem
-    o futuro decerto evitam os perigos.\",\n\t\"Devemos prever o final a partir do
-    come\xE7o e s\xF3 ent\xE3o proteger-nos do resto.\",\n\t\"Para os malditos n\xE3o
-    h\xE1 lugar seguro nem na terra, nem no ar, nem na \xE1gua.\",\n\t\"N\xE3o se
-    vanglorie do extraordin\xE1rio se n\xE3o conseguir realizar o corriqueiro.\",\n\t\"De
-    nada vale a riqueza se a utilidade n\xE3o a acompanha.\"]\n\t\n\t\n\t}\n\t\n\t\n\t\n\t"
+    ]\n\t\n\t\n\t}\n\t\n\t\n\t\n\t"
 --- !u!222 &2095885442
 CanvasRenderer:
   m_ObjectHideFlags: 0
