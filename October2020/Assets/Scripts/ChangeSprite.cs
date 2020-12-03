@@ -2,23 +2,40 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChangeImage : MonoBehaviour
+public class ChangeSprite : MonoBehaviour
 {
-    public GameObject RightPanel;
-    public Texture RawImage;
-    private SpriteRenderer spriteRenderer;
-     public void Start()
-     {
-         spriteRenderer = GetComponent<SpriteRenderer>();
-         if (spriteRenderer.sprite == null)
-         spriteRenderer.sprite = Resources.Load<Sprite>("rightimage"+Random.Range(0,1));
-     }
+    public List<Sprite> sprites;
+
+    private SpriteRenderer renderer;
+    private void Start()
+    {
+        renderer = GetComponent<SpriteRenderer>();
+         if (renderer.sprite == null)
+         renderer.sprite = sprites[Random.Range(0,sprites.Count)];
+
+    }
+    
+    public void RandomSprite()
+    {
+        Sprite newSprite = sprites[Random.Range(0,sprites.Count)];
+        renderer.sprite = newSprite;
+    }
 
 
-     public void Update()
-     {
+    //public GameObject RightPanel;
+    //public Texture RawImage;
+    //private SpriteRenderer spriteRenderer;
+     //public void Start()
+     //{
+     //    spriteRenderer = GetComponent<SpriteRenderer>();
+     //    if (spriteRenderer.sprite == null)
+     //  //  spriteRenderer.sprite = Resources.Load<Sprite>("rightimage"+Random.Range(0,1));
+     //}
 
-     }
+
+    // public void Update()
+    // {
+     //}
      
     // /RandomImage()
     // {
