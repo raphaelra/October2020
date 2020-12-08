@@ -266,7 +266,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &42411555 stripped
 RectTransform:
@@ -442,10 +442,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -529,27 +529,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 253.59998
+      value: 793.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -648,10 +648,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -735,27 +735,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -277.4
+      value: 262.59998
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -872,10 +872,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -959,27 +959,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -277.4
+      value: 262.59998
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1551,10 +1551,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -1638,27 +1638,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 514.5
+      value: 1054.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1774,7 +1774,7 @@ RectTransform:
   - {fileID: 451262443}
   - {fileID: 1834788639}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 13.793, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1791,10 +1791,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -1878,27 +1878,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 775.6
+      value: 1315.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1944,7 +1944,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000045776367, y: -29.53}
+  m_AnchoredPosition: {x: 0.000045776367, y: -6}
   m_SizeDelta: {x: -0.000076293945, y: -59.05227}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &361026992
@@ -2162,8 +2162,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.7}
   m_AnchorMax: {x: 1, y: 0.8}
-  m_AnchoredPosition: {x: -479.41, y: -600.09}
-  m_SizeDelta: {x: -729.2635, y: 68.33957}
+  m_AnchoredPosition: {x: -479.41, y: -613.9}
+  m_SizeDelta: {x: -729.2635, y: 40.744766}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &392559070
 MonoBehaviour:
@@ -2183,17 +2183,17 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 1, b: 1, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 21300000, guid: b57a5484b8c527941bbe3ce9341a30ff, type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
@@ -2640,10 +2640,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -2727,27 +2727,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -13.400024
+      value: 526.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2774,10 +2774,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -2861,27 +2861,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.1
+      value: 4.9000244
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -3092,7 +3092,6 @@ RectTransform:
   - {fileID: 221060401}
   - {fileID: 199895673}
   - {fileID: 1114470892}
-  - {fileID: 1320693073}
   m_Father: {fileID: 334160302}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3267,10 +3266,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -3354,27 +3353,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 514.5
+      value: 1054.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -13974,10 +13973,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -14061,27 +14060,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 775.6
+      value: 1315.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -14135,10 +14134,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -14222,27 +14221,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 253.59998
+      value: 793.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -19197,10 +19196,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -19284,27 +19283,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 514.5
+      value: 1054.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -19825,10 +19824,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -19912,27 +19911,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.1
+      value: 4.9000244
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -19954,10 +19953,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -20041,27 +20040,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 253.59998
+      value: 793.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -20204,10 +20203,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -20291,27 +20290,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -13.400024
+      value: 526.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -20333,10 +20332,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -20420,27 +20419,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -277.4
+      value: 262.59998
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -20726,9 +20725,9 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1320693072}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.14399396}
+  m_LocalScale: {x: 0.205, y: 0.205, z: 0.2022663}
   m_Children:
   - {fileID: 500076299}
   - {fileID: 930619358}
@@ -20760,12 +20759,12 @@ RectTransform:
   - {fileID: 1120202261}
   - {fileID: 638520351}
   - {fileID: 1300445199}
-  m_Father: {fileID: 451262443}
-  m_RootOrder: 12
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 219.5, y: 113}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1334687664
@@ -20778,10 +20777,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -20865,27 +20864,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 253.59998
+      value: 793.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -21039,10 +21038,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -21126,27 +21125,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -13.400024
+      value: 526.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -26001,10 +26000,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -26088,27 +26087,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -277.4
+      value: 262.59998
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -26162,10 +26161,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -26249,27 +26248,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -13.400024
+      value: 526.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -26291,10 +26290,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -26378,27 +26377,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.1
+      value: 4.9000244
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -31483,10 +31482,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -31570,27 +31569,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 253.59998
+      value: 793.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -31628,10 +31627,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -31715,27 +31714,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 514.5
+      value: 1054.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -31773,10 +31772,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -31860,27 +31859,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 775.6
+      value: 1315.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -31902,10 +31901,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -31989,27 +31988,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 719.3
+      value: -240.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -277.4
+      value: 262.59998
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -32031,10 +32030,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -32118,27 +32117,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 983.5
+      value: 23.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.1
+      value: 4.9000244
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -32351,7 +32350,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 28
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -32377,7 +32376,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1744996852}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 960, y: 540, z: -975}
+  m_LocalPosition: {x: 441, y: 248, z: -975}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -37809,10 +37808,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -37896,27 +37895,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 514.5
+      value: 1054.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -37938,10 +37937,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -38025,27 +38024,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1505.6
+      value: 545.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 775.6
+      value: 1315.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -38067,10 +38066,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -38154,27 +38153,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -13.400024
+      value: 526.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -43225,10 +43224,10 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: sprites.Array.size
@@ -43312,27 +43311,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1243.7
+      value: 283.69995
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.1
+      value: 4.9000244
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -43588,73 +43587,21 @@ PrefabInstance:
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 266850e32f5823d42a2cb21b2668312a, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734776, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734777, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: sprites.Array.size
-      value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -500.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1294.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_RootOrder
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 200
-      objectReference: {fileID: 0}
-    - target: {fileID: 4956638062230734782, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 4956638062230734783, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_Name
       value: Star0
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_RootOrder
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
@@ -43662,40 +43609,44 @@ PrefabInstance:
       value: 1.0000529
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 200.00003
+      propertyPath: m_LocalRotation.x
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 200.00003
+      propertyPath: m_LocalRotation.y
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_LocalScale.z
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_LocalRotation.w
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 459
+      value: -501
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 775.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
+      value: 1315.6
       objectReference: {fileID: 0}
     - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -43705,7 +43656,32 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 1080
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127765458476853328, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6439795489972359078, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 8f3424952d546d1409a3e9b183ee352b, type: 3}
 --- !u!1001 &6157227333746431132
 PrefabInstance:

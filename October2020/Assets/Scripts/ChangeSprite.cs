@@ -10,8 +10,8 @@ public class ChangeSprite : MonoBehaviour
     private void Start()
     {
         renderer = GetComponent<SpriteRenderer>();
-         if (renderer.sprite == null)
-         renderer.sprite = sprites[Random.Range(0,sprites.Count)];
+        // if (renderer.sprite == null)
+        // renderer.sprite = sprites[Random.Range(0,sprites.Count)];
 
     }
     
