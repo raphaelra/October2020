@@ -1,5 +1,5 @@
 {
-	"origin":["[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#Title# #A# #B# #C#"],
+	"origin":["[Personagem1:#AnimalM#][Personagem2:#AnimalF#]#A# #B# #C#"],
 	"Title":["#ArtigoDefinidoM.capitalize# #Personagem1# e #ArtigoDefinidoF# #Personagem2#"],
 	
 	"A":[
